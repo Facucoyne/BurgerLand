@@ -588,6 +588,12 @@ box-shadow: 4px 10px 38px 3px rgba(0,0,0,0.75);
     }
 }
 
+/*Imagen de servicios*/
+@media screen and (max-width:360px){
+    .image1 img{
+        width: 100%;
+    }
+}
 
 @media screen and (max-width: 768px){
     .Aboutsection {
