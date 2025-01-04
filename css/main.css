@@ -566,6 +566,13 @@ box-shadow: 4px 10px 38px 3px rgba(0,0,0,0.75);
 }
 
 
+/*Productos*/
+@media screen and (max-width: 517px){
+    .TextoCard p {
+     margin: 1px;
+    }
+}
+
 @media screen and (max-width: 800px) {
     .container-img{
         width: 95%;
